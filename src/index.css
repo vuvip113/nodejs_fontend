@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap");
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Quicksand:wght@500&display=swap");
+* {
+  /* font-family: "Assistant", sans-serif; */
+  font-family: "Assistant", sans-serif;
+  font-family: "Quicksand", sans-serif;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
